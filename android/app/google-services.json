@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508575573531",
+    "project_id": "dsvvmaterial",
+    "storage_bucket": "dsvvmaterial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508575573531:android:ef7cb533edf7a2368ababe",
+        "android_client_info": {
+          "package_name": "com.example.dsvv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508575573531-o3rorgp09n81ls19edvotl3sgtg68oru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsvv",
+            "certificate_hash": "d8d9080a3b4bf9763f99442601c64a648a36b72a"
+          }
+        },
+        {
+          "client_id": "508575573531-tlp3f92fo1tq8796gjiri0l1hm4jn8ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQG2Zg8rfY8TAZQhyIpnU4Fv4YopWItEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508575573531-tlp3f92fo1tq8796gjiri0l1hm4jn8ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
